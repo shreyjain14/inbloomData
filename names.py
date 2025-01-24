@@ -1,0 +1,33 @@
+clg = ["Mount Carmel College"
+,"Christ Univeristy"
+,"St. Joseph's University"
+,"PESU Electronic City Campus"
+,"PES University"
+,"KLS Gogte Institute of Technology"
+,"St. Joseph's College of Commerece"
+,"Dayananda Sagar College of Engineering"
+,"R.V College of Engineering" 
+,"IIT Bangalore"
+,"Kristu Jayanti Autonomous College" 
+,"Ramaiah University of Applied Sciences"
+,"The Oxford College of Engineering"
+,"Christ University Bannerghatta Campus"
+,"Al Ameen College of Pharmacy"
+,"Global Academy of Technology"
+,"Manipal Institute of Technology" 
+,"Sapthagiri College of Engineering" 
+,"Dayananda Sagar Academy of Technology" 
+,"Kalai Kaveri College of Fine Arts"
+,"St. Francis College"
+,"Jain Deemed to be University"
+,"NIFT Bangalore"
+,"DSCE - Banshakari"
+,"SJR College of Law"
+,"Amrita"
+,"RVU"
+,"Artia University"
+,"Jain School of Science"]
+
+with open("abc.txt", "w") as f:
+    for i in clg:
+        f.write(f"""{{"collegeName":"{i}", "results": []}},\n""")

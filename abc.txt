@@ -1,5 +1,4 @@
-[
-    {"collegeName":"Mount Carmel College", "results": []},
+{"collegeName":"Mount Carmel College", "results": []},
 {"collegeName":"Christ Univeristy", "results": []},
 {"collegeName":"St. Joseph's University", "results": []},
 {"collegeName":"PESU Electronic City Campus", "results": []},
@@ -27,5 +26,4 @@
 {"collegeName":"Amrita", "results": []},
 {"collegeName":"RVU", "results": []},
 {"collegeName":"Artia University", "results": []},
-{"collegeName":"Jain School of Science", "results": []}
-]
+{"collegeName":"Jain School of Science", "results": []},
