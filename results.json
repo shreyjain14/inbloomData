@@ -3,19 +3,10 @@
     {"collegeName":"Christ Univeristy", "results": [
         {
             "event": "Solo Dance",
-            "position": 3,
-            "category": "Cultural"
-        },
-        {
-            "event": "Solo Dance",
-            "position": 1,
-            "category": "Cultural"
-        },
-        {
-            "event": "Solo Dance",
-            "position": 3,
+            "position": 0,
             "category": "Cultural"
         }
+      
     ]},
     {"collegeName":"St. Joseph's University", "results": [
         
