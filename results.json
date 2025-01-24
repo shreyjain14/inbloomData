@@ -1,27 +1,110 @@
 [
-    {"collegeName":"Mount Carmel College", "results": []},
+    {"collegeName":"Mount Carmel College", "results": [
+         {
+            "event": "Pencil Sketching",
+            "position": 2,
+            "category": "Art"
+        }
+    ]},
     {"collegeName":"Christ Univeristy", "results": [
         {
-            "event": "Solo Dance",
-            "position": 0,
-            "category": "Cultural"
+            "event": "Debate",
+            "position": 2,
+            "category": "Literary"
+        },
+        {
+            "event": "Indian Classical Dance(group)",
+            "position": 3,
+            "category": "Stage"
         }
       
     ]},
     {"collegeName":"St. Joseph's University", "results": [
-        
+        {
+            "event": "Debate",
+            "position": 1,
+            "category": "Literary"
+        },
+        {
+            "event": "Indian Music(group)",
+            "position": 2,
+            "category": "Stage"
+        },
+        {
+            "event": "Battle of Bands(western)",
+            "position": 1,
+            "category": "Stage"
+        },
+        {
+            "event": "Acapella(group)",
+            "position": 3,
+            "category": "Stage"
+        },
+        {
+            "event": "Indian Film and Folk Singing(Solo)",
+            "position": 1,
+            "category": "Stage"
+        },
+        {
+            "event": "Non theme Dance(solo)",
+            "position": 2,
+            "category": "Stage"
+        }
        
     ]},
     {"collegeName":"PESU Electronic City Campus", "results": [
       
     ]},
     {"collegeName":"PES University", "results": []},
-    {"collegeName":"KLS Gogte Institute of Technology", "results": []},
+    {"collegeName":"KLS Gogte Institute of Technology", "results": [
+        {
+            "event": "Pencil Sketching",
+            "position": 2,
+            "category": "Art"
+        },
+        {
+            "event": "Indian Film and Folk Singing(Solo)",
+            "position": 2,
+            "category": "Stage"
+        }
+    ]},
     {"collegeName":"St. Joseph's College of Commerece", "results": []},
     {"collegeName":"Dayananda Sagar College of Engineering", "results": []},
     {"collegeName":"R.V College of Engineering", "results": []},
     {"collegeName":"IIT Bangalore", "results": []},
-    {"collegeName":"Kristu Jayanti Autonomous College", "results": []},
+    {"collegeName":"Kristu Jayanti Autonomous College", "results": [
+        {
+            "event": "B-Plan Pitching",
+            "position": 1,
+            "category": "Literary"
+        },
+        {
+            "event": "Dumb Charades",
+            "position": 2,
+            "category": "Literary"
+        },
+                {
+            "event": "Indian Music(group)",
+            "position": 2,
+            "category": "Stage"
+        },
+        {
+            "event": "Battle of Bands(western)",
+            "position": 3,
+            "category": "Stage"
+        },
+         {
+            "event": "Acapella(group)",
+            "position": 1,
+            "category": "Stage"
+        },
+        {
+            "event": "Indian Classical Dance(group)",
+            "position": 1,
+            "category": "Stage"
+        }
+        
+    ]},
     {"collegeName":"Ramaiah University of Applied Sciences", "results": []},
     {"collegeName":"The Oxford College of Engineering", "results": []},
     {"collegeName":"Christ University Bannerghatta Campus", "results": []},
@@ -30,14 +113,64 @@
     {"collegeName":"Manipal Institute of Technology", "results": []},
     {"collegeName":"Sapthagiri College of Engineering", "results": []},
     {"collegeName":"Dayananda Sagar Academy of Technology", "results": []},
-    {"collegeName":"Kalai Kaveri College of Fine Arts", "results": []},
-    {"collegeName":"St. Francis College", "results": []},
-    {"collegeName":"Jain Deemed to be University", "results": []},
+    {"collegeName":"Kalai Kaveri College of Fine Arts", "results": [
+        {
+            "event": "Pencil Sketching",
+            "position": 1,
+            "category": "Art"
+        },
+         {
+            "event": "Acapella(group)",
+            "position": 2,
+            "category": "Stage"
+        },
+         {
+            "event": "Indian Classical Dance(group)",
+            "position": 2,
+            "category": "Stage"
+        }
+    ]},
+    {"collegeName":"St. Francis College", "results": [
+        
+    ]},
+    {"collegeName":"Jain Deemed to be University", "results": [
+        {
+            "event": "Debate",
+            "position": 3,
+            "category": "Literary"
+        },
+        {
+            "event": "B-Plan Pitching",
+            "position": 1,
+            "category": "Literary"
+        },
+         {
+            "event": "Dumb Charades",
+            "position": 2,
+            "category": "Literary"
+        },
+         {
+            "event": "Battle of Bands(western)",
+            "position": 3,
+            "category": "Stage"
+        },
+         {
+            "event": "Indian Film and Folk Singing(Solo)",
+            "position": 3,
+            "category": "Stage"
+        }
+    ]},
     {"collegeName":"NIFT Bangalore", "results": []},
     {"collegeName":"DSCE - Banshakari", "results": []},
     {"collegeName":"SJR College of Law", "results": []},
     {"collegeName":"Amrita", "results": []},
     {"collegeName":"RVU", "results": []},
-    {"collegeName":"Artia University", "results": []},
+    {"collegeName":"Artia University", "results": [
+        {
+            "event": "Pencil Sketching",
+            "position": 3,
+            "category": "Art"
+        }
+    ]},
     {"collegeName":"Jain School of Science", "results": []}
 ]
