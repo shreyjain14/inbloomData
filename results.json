@@ -1,7 +1,12 @@
 [
     {"collegeName":"Mount Carmel College", "results": []},
     {"collegeName":"Christ Univeristy", "results": [
-        { event: 'Debate', position: 1, category: 'Literary' }
+        {
+            "event": "Solo Dance",
+            "position": 2,
+            "position": 3,
+            "category": "Cultural"
+        }
     ]},
     {"collegeName":"St. Joseph's University", "results": []},
     {"collegeName":"PESU Electronic City Campus", "results": []},
