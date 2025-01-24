@@ -23,9 +23,25 @@
             "event": "Solo Dance",
             "position": 1,
             "category": "Cultural"
+        },
+        {
+            "event": "Solo Dance",
+            "position": 1,
+            "category": "Cultural"
         }
     ]},
-    {"collegeName":"PESU Electronic City Campus", "results": []},
+    {"collegeName":"PESU Electronic City Campus", "results": [
+        {
+            "event": "Solo Dance",
+            "position": 1,
+            "category": "Cultural"
+        },
+        {
+            "event": "Solo Dance",
+            "position": 1,
+            "category": "Cultural"
+        }
+    ]},
     {"collegeName":"PES University", "results": []},
     {"collegeName":"KLS Gogte Institute of Technology", "results": []},
     {"collegeName":"St. Joseph's College of Commerece", "results": []},
