@@ -6,6 +6,11 @@
                 "event": "Solo Dance",
                 "position": 1,
                 "category": "Cultural"
+            },
+            {
+                "event": "Solo Dance",
+                "position": 2,
+                "category": "Cultural"
             }
         ]
     },
