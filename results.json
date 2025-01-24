@@ -1,6 +1,8 @@
 [
     {"collegeName":"Mount Carmel College", "results": []},
-    {"collegeName":"Christ Univeristy", "results": []},
+    {"collegeName":"Christ Univeristy", "results": [
+        { event: 'Debate', position: 1, category: 'Literary' }
+    ]},
     {"collegeName":"St. Joseph's University", "results": []},
     {"collegeName":"PESU Electronic City Campus", "results": []},
     {"collegeName":"PES University", "results": []},
