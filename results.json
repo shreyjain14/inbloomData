@@ -3,11 +3,28 @@
     {"collegeName":"Christ Univeristy", "results": [
         {
             "event": "Solo Dance",
-            "position": 0,
+            "position": 3,
+            "category": "Cultural"
+        },
+        {
+            "event": "Solo Dance",
+            "position": 1,
+            "category": "Cultural"
+        },
+        {
+            "event": "Solo Dance",
+            "position": 3,
+            "category": "Cultural"
+        },
+    ]},
+    {"collegeName":"St. Joseph's University", "results": [
+        
+        {
+            "event": "Solo Dance",
+            "position": 1,
             "category": "Cultural"
         }
     ]},
-    {"collegeName":"St. Joseph's University", "results": []},
     {"collegeName":"PESU Electronic City Campus", "results": []},
     {"collegeName":"PES University", "results": []},
     {"collegeName":"KLS Gogte Institute of Technology", "results": []},
