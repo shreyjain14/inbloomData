@@ -4,6 +4,11 @@
             "event": "Pencil Sketching",
             "position": 3,
             "category": "Art"
+        },
+        {
+            "event": "Non theme dance",
+            "position": 1,
+            "category": "Stage"
         }
     ]},
     {"collegeName":"Christ Univeristy", "results": [
