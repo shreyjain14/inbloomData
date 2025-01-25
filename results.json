@@ -16,6 +16,11 @@
             "event": "Indian Classical Dance(group)",
             "position": 3,
             "category": "Stage"
+        },
+         {
+            "event": "Creative writing",
+            "position": 3,
+            "category": "Literary"
         }
       
     ]},
@@ -23,6 +28,11 @@
         {
             "event": "Debate",
             "position": 1,
+            "category": "Literary"
+        },
+        {
+            "event": "Creative writing(poetry)",
+            "position": 2,
             "category": "Literary"
         },
         {
@@ -44,8 +54,12 @@
             "event": "Indian Film and Folk Singing(Solo)",
             "position": 1,
             "category": "Stage"
-        }
-       
+        },
+         {
+            "event": "Non Theme Solo Dance",
+            "position": 2,
+            "category": "Stage"
+        },
     ]},
     {"collegeName":"PESU Electronic City Campus", "results": [
       
@@ -56,6 +70,11 @@
             "event": "Pencil Sketching",
             "position": 2,
             "category": "Art"
+        },
+         {
+            "event": "Creative writing(short story)",
+            "position": 1,
+            "category": "Literary"
         },
         {
             "event": "Indian Film and Folk Singing(Solo)",
@@ -97,10 +116,26 @@
             "event": "Indian Classical Dance(group)",
             "position": 1,
             "category": "Stage"
-        }
+        },
+        {
+            "event": "Non Theme Solo Dance",
+            "position": 1,
+            "category": "Stage"
+        },
+          {
+            "event": "Non Theme Solo Dance",
+            "position": 3,
+            "category": "Stage"
+        },
         
     ]},
-    {"collegeName":"Ramaiah University of Applied Sciences", "results": []},
+    {"collegeName":"Ramaiah University of Applied Sciences", "results": [
+         {
+            "event": "Creative writing(short story)",
+            "position": 2,
+            "category": "Literary"
+        },
+    ]},
     {"collegeName":"The Oxford College of Engineering", "results": []},
     {"collegeName":"Christ University Bannerghatta Campus", "results": []},
     {"collegeName":"Al Ameen College of Pharmacy", "results": []},
@@ -113,6 +148,16 @@
             "event": "Pencil Sketching",
             "position": 1,
             "category": "Art"
+        },
+         {
+            "event": "Creative writing(short story)",
+            "position": 3,
+            "category": "Literary"
+        },
+         {
+            "event": "Creative writing(poetry)",
+            "position": 1,
+            "category": "Literary"
         },
          {
             "event": "Acapella(group)",
@@ -135,8 +180,18 @@
             "category": "Literary"
         },
         {
-            "event": "B-Plan Pitching",
+            "event": "Creative Writing",
             "position": 1,
+            "category": "Literary"
+        },
+        {
+            "event": "B-Plan Pitching",
+            "position": 2,
+            "category": "Literary"
+        },
+        {
+            "event": "B-Plan Pitching",
+            "position": 3,
             "category": "Literary"
         },
          {
@@ -154,13 +209,24 @@
             "position": 2,
             "category": "Stage"
         },
+        {
+            "event": "Creative writing(poetry)",
+            "position": 3,
+            "category": "Literary"
+        },
          {
             "event": "Indian Film and Folk Singing(Solo)",
             "position": 3,
             "category": "Stage"
         }
     ]},
-    {"collegeName":"NIFT Bangalore", "results": []},
+    {"collegeName":"NIFT Bangalore", "results": [
+        {
+            "event": "Creative writing",
+            "position": 2,
+            "category": "Literary"
+        }
+    ]},
     {"collegeName":"DSCE - Banshakari", "results": []},
     {"collegeName":"SJR College of Law", "results": []},
     {"collegeName":"Amrita", "results": []},
