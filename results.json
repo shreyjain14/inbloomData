@@ -2,7 +2,7 @@
     {"collegeName":"Mount Carmel College", "results": [
          {
             "event": "Pencil Sketching",
-            "position": 2,
+            "position": 1,
             "category": "Art"
         }
     ]},
@@ -44,11 +44,6 @@
             "event": "Indian Film and Folk Singing(Solo)",
             "position": 1,
             "category": "Stage"
-        },
-        {
-            "event": "Non theme Dance(solo)",
-            "position": 2,
-            "category": "Stage"
         }
        
     ]},
@@ -85,7 +80,7 @@
         },
                 {
             "event": "Indian Music(group)",
-            "position": 2,
+            "position": 1,
             "category": "Stage"
         },
         {
@@ -146,12 +141,17 @@
         },
          {
             "event": "Dumb Charades",
-            "position": 2,
+            "position": 1,
+            "category": "Literary"
+        },
+        {
+            "event": "Dumb Charades",
+            "position": 3,
             "category": "Literary"
         },
          {
             "event": "Battle of Bands(western)",
-            "position": 3,
+            "position": 2,
             "category": "Stage"
         },
          {
