@@ -26,7 +26,13 @@
             "event": "Creative writing",
             "position": 3,
             "category": "Literary"
+        },
+        {
+            "event": "Indian Classical Dance(solo)",
+            "position": 2,
+            "category": "Stage"
         }
+        
       
     ]},
     {"collegeName":"St. Joseph's University", "results": [
@@ -85,7 +91,18 @@
             "event": "Indian Film and Folk Singing(Solo)",
             "position": 2,
             "category": "Stage"
+        },
+         {
+            "event": "Pot pourri (Prelims & Finals)",
+            "position": 3,
+            "category": "Literary"
+        },
+         {
+            "event": "Western Singing (Solo)",
+            "position": 3,
+            "category": "Stage"
         }
+        
     ]},
     {"collegeName":"St. Joseph's College of Commerece", "results": []},
     {"collegeName":"Dayananda Sagar College of Engineering", "results": []},
