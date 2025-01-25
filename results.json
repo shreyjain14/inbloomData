@@ -97,7 +97,7 @@
             "position": 2,
             "category": "Literary"
         },
-                {
+        {
             "event": "Indian Music(group)",
             "position": 1,
             "category": "Stage"
@@ -134,7 +134,7 @@
             "event": "Creative writing(short story)",
             "position": 2,
             "category": "Literary"
-        },
+        }
     ]},
     {"collegeName":"The Oxford College of Engineering", "results": []},
     {"collegeName":"Christ University Bannerghatta Campus", "results": []},
