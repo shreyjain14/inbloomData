@@ -101,6 +101,11 @@
             "event": "Western Singing (Solo)",
             "position": 3,
             "category": "Stage"
+        },
+        {
+            "event": "Non Theme Dance (Duet)",
+            "position": 3,
+            "category": "Stage"
         }
         
     ]},
